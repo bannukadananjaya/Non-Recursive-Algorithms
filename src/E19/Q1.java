@@ -13,6 +13,21 @@ public class Q1 {
             System.out.println(array[i]);
         }
 
+        //Q 03)Interchange 
+        int i = 2;
+        int j = 3;
+        int temp;
 
+        temp = i;
+        i = j;
+        j = temp;
+        System.out.println("change "+temp+" into "+i);
+        System.out.println("change "+i+" into "+j);
+
+        //Q 04)Print Kth element
+
+        //Q 05)Delete Kth elemnt
+
+        
     }
 }
