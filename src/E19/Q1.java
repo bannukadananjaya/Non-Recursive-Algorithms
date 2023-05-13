@@ -25,9 +25,12 @@ public class Q1 {
         System.out.println("change "+i+" into "+j);
 
         //Q 04)Print Kth element
-
+        k=5;
+        //printing the 6th element
+        system.out.println(array[k]);
+        
         //Q 05)Delete Kth elemnt
-
+        array[k]='';
         
     }
 }
